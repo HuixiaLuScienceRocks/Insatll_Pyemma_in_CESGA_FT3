@@ -62,7 +62,7 @@ python -m pip install mdtraj==1.9.5
 
 #Other modules like
 ```
- h5py tqdm pyyaml psutil  pathos matplotlib
+ h5py==3.8.0 tqdm==4.67.1 pyyaml==6.0.1 psutil==7.0.0  pathos==0.3.1 matplotlib==3.5.3
 ```
 
 #In the end it is advisable to install pyemma for double check
