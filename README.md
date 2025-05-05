@@ -28,8 +28,11 @@ module load cesga/2020 miniconda3/4.9.2
 
 
 ##########################
+
 ##Installing PyEMMA2.5.7 in CESGA FT3 cluster can be tricky
+
 #activate conda
+
 ```
 export CONDA_ENVS_PATH=$STORE/conda/envs
 ```
