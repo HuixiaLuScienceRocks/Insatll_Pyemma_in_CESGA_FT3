@@ -72,3 +72,7 @@ python -m pip install mdtraj==1.9.5
 ```
 python -m ip install pyemma==2.5.7
 ```
+#if it doesn't work, please check the following the version of the following packages:
+```
+numpy-1.21.6 pandas-0.25.3 python-dateutil-2.9.0.post0 pytz-2025.2 six-1.17.0
+```
