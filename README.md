@@ -23,7 +23,7 @@ module load cesga/2020 miniconda3/4.9.2
 
 #Inside of your pyemma env, call on jupyter (don't install yourself)
 ```
-(pyemma) [cstsmhlu@c206-6 try-msm]$ start_jupyter
+(pyemma) [try-msm]$ start_jupyter
 ```
 
 
@@ -51,7 +51,7 @@ conda create -n pyemma python=3.7
 ```
 #First download the archived package for installing pyemma from the anaonda website: https://anaconda.org/conda-forge/pyemma/files?version=2.5.7
 ```
-(pyemma) [cstsmhlu@c206-6 try-msm]$ conda install /mnt/netapp1/Store_CSIC/home/csic/tsm/hlu/aa/pyemma-2.5.7-py37hdc94413_6.tar.bz2
+(pyemma) [try-msm]$ conda install /mnt/netapp1/Store_CSIC/home/csic/tsm/hlu/aa/pyemma-2.5.7-py37hdc94413_6.tar.bz2
 ```
 Then insall a series of depending sub modules of pyemma:
 
